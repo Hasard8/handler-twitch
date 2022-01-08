@@ -1,10 +1,10 @@
 {
   "owners": [
-    "YOUR_TWITCH_NAME"
+    "hasard888"
   ],
-  "username": "Bot_USERNAME",
-  "password": "BOT OAUTH PASSWORD",
-  "channels": [
+  "dax771_bot": "Bot_USERNAME",
+  "zqh9vm3972c4f7cly514a8e3sgbjy4": "BOT OAUTH PASSWORD",
+  " https://www.twitch.tv/dax771gaming?sr=a": [
     "YOUR_CHANNEL_NAME twitch.tv/CHANNEL_NAME"
   ]
 }
